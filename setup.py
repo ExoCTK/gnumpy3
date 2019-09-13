@@ -3,7 +3,7 @@ try:
 except ImportError:
     from distutils.core import setup
 
-setup(name='gnumpy3',
+setup(name='gnumpy',
       version='0.2',
       description="Gnumpy is a simple Python module that interfaces in a way "
       "almost identical to numpy, but does its computations on your "
